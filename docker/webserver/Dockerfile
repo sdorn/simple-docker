@@ -1,1 +1,1 @@
-FROM php:7-apche
+FROM php:7-apache
