@@ -20,4 +20,4 @@ services:
       - ./db:/var/lib/mysql
     environment:
       - MYSQL_ROOT_PASSWORD=docker
-      - MYSQL_DATABASE=db_runwaytest
+      - MYSQL_DATABASE=db_runawaytest
